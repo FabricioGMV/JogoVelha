@@ -1,0 +1,13 @@
+Fabrício:
+
+Repositório criado: JogoVelha
+git init
+git remote add origin https://github.com/FabricioGMV/JogoVelha.git
+git add .
+git commit -m "Primeiro movimento na casa 3A."
+git push -u origin master
+
+Lucas:
+
+
+
