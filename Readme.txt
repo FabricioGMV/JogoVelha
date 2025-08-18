@@ -1,3 +1,6 @@
+Fabrício Veloso - Ra: 2403551
+Lucas Tosta - Ra: 2403803
+
 Fabrício:
 
 Repositório criado: JogoVelha
