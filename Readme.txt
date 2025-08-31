@@ -1,5 +1,4 @@
-Fabrício Veloso - Ra: 2403551
-Lucas Tosta - Ra: 2403803
+Fabrício Veloso & Lucas Tosta
 
 Fabrício:
 
